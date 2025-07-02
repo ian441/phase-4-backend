@@ -174,7 +174,10 @@ flask db migrate -m "fresh"
 flask db upgrade
 
 ### Contributors
-Ramadhan Haro — Backend Developer
+joash-muriugi
+king Kelly
+Ramadhan Haro
+Ian Ayiro
 
 Group 4 — Locavore Project Team
 
